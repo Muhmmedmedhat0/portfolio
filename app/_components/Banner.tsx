@@ -50,7 +50,7 @@ const Banner = () => {
                         <span className="font-medium text-foreground">
                             Muhmmed Medhat
                         </span>
-                        . Senior Frontend Engineer with 4+ years of experience
+                        . Senior Frontend Engineer with 5+ years of experience
                         building scalable, performant, and accessible web
                         applications.
                     </p>
